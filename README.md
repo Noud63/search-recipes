@@ -2,10 +2,10 @@
 
 Great food api for practice purposes.
 
-Returns a list of recipes for a specific query
+Returns a list of recipes for a specific query<br>
 https://forkify-api.herokuapp.com/api/search?q=query
 
-Returns the details about a specific recipe
+Returns the details about a specific recipe by id<br>
 https://forkify-api.herokuapp.com/api/get?rId=id
 
 No need to use CORS proxy or API key<br>
