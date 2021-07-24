@@ -1,4 +1,4 @@
-<H1>search-recipes</H1>
+<H1>Search Recipes</H1>
 
 Great food api for practice purposes.
 
